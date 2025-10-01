@@ -1,3 +1,27 @@
+# 🏃 MoveIt  
+
+O **MoveIt** é um projeto front-end criado durante a **NLW#4 (Rocketseat)**, utilizando **ReactJS, Next.js e TypeScript**.  
+A proposta é incentivar pausas ativas e combater o sedentarismo por meio de desafios de exercícios curtos após períodos de foco no trabalho ou estudo.  
+
+## 🚀 Tecnologias  
+
+- [Next.js](https://nextjs.org/)  
+- [React](https://react.dev/)  
+- [TypeScript](https://www.typescriptlang.org/)  
+- [Axios](https://axios-http.com/)  
+- [js-cookie](https://github.com/js-cookie/js-cookie)  
+- [react-confetti](https://www.npmjs.com/package/react-confetti)  
+- [sweetalert](https://sweetalert.js.org/)  
+- [ESLint](https://eslint.org/)  
+- [Prettier](https://prettier.io/)  
+
+## 📖 Funcionalidades  
+
+- Contagem regressiva para ciclos de foco.  
+- Sistema de desafios rápidos (exercícios) ao final de cada ciclo.  
+- Recompensas em XP e níveis conforme a conclusão de tarefas.  
+- Feedback visual divertido com **confetes e alertas interativos**.  
+
 # Move.it
 <img src = "https://github.com/vicenttcarvalho/assets/blob/main/01-movit.png"/>
 
